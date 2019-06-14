@@ -1,0 +1,28 @@
+{
+  "Source": "Transactions",
+  "Purpose": "Transactions of Customer on bnp.com",
+  "Technical_format": "avro",
+  "Golden_source": true,
+  "landing_topic": "topic-1",
+  "error_topic": "topic-error-1",
+  "event_topic": "topic-event-1",
+  "metadata_topic": "topic-metadata-1",
+  "schemaRegistryURL": "http://schemaregistry",
+  "Content": [
+    {
+      "version": 1,
+      "schema": "[{\"name\": \"customerID\", \"type\": \"string\"}, {\"name\": \"amount\",\"type\": \"double\"}]",
+      "sensitiveFields": [
+        "customerID"
+      ]
+    },
+    {
+      "version": 2,
+      "schema": "[{\"name\": \"customerId\", \"type\": \"string\"}, {\"name\": \"customerName\", \"type\": \"string\"}, {\"name\": \"amount\", \"type\": \"double\"}]",
+      "sensitiveFields": [
+        "customerID",
+        "customerName"
+      ]
+    }
+  ]
+}

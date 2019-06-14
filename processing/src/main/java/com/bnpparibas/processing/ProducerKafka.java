@@ -13,7 +13,7 @@ public class ProducerKafka {
 
     public static void main(String[] args) throws Exception{
 
-        Stream<String> filejson = Files.lines(Paths.get("/home/fouad/BigApps/kafkaBigapps/kafkaProject/processing/src/main/resources/JsonTopic.json"));
+        Stream<String> filejson = Files.lines(Paths.get("/home/fouad/BigApps/kafkaBigapps/projetKafka/processing/src/main/resources/JsonTopic.json"));
 
         String topicName = "test";
 

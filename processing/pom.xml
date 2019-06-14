@@ -104,11 +104,7 @@
             <artifactId>kafka-streams</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>com.bigapps</groupId>
-            <artifactId>common</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+
         <dependency>
             <groupId>com.typesafe</groupId>
             <artifactId>config</artifactId>

@@ -13,7 +13,10 @@
     <artifactId>common</artifactId>
 
     <build>
+
+        <!--
         <sourceDirectory>src/main/scala</sourceDirectory>
+        -->
 
 
 

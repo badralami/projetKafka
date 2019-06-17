@@ -163,13 +163,6 @@
         </dependency>
 
 
-
-        <!--<dependency>-->
-        <!--<groupId>org.scalamock</groupId>-->
-        <!--<artifactId>scalamock-scalatest-support_${scala.version}</artifactId>-->
-        <!--<version>${scala.mock.version}</version>-->
-        <!--<scope>test</scope>-->
-    <!--</dependency>-->
     <dependency>
             <groupId>org.json4s</groupId>
             <artifactId>json4s-jackson_${scala.version}</artifactId>

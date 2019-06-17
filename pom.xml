@@ -48,7 +48,7 @@
 
     <dependencyManagement>
         <dependencies>
-            <!-- https://mvnrepository.com/artifact/com.github.mrpowers/spark-fast-tests -->
+
             <dependency>
                 <groupId>com.github.mrpowers</groupId>
                 <artifactId>spark-fast-tests_2.11</artifactId>
@@ -56,7 +56,6 @@
                 <scope>test</scope>
             </dependency>
 
-            <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
             <dependency>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
@@ -86,7 +85,6 @@
                 <artifactId>config</artifactId>
                 <version>${typesafe.version}</version>
             </dependency>
-
 
             <dependency>
                 <groupId>org.apache.commons</groupId>

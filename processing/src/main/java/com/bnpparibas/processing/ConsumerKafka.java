@@ -11,11 +11,11 @@ public class ConsumerKafka {
 
     public static void main(String[] args) throws Exception {
 
-        String topicName = "test";
+        String topicName = "topic1";
 
         Properties props = new Properties();
         props.put("bootstrap.servers", "localhost:9092");
-        props.put("group.id", "test");
+        props.put("group.id", "group-topic");
         props.put("client.id","balami");
 
         props.put("enable.auto.commit", "true");

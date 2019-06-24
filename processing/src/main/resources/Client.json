@@ -1,0 +1,15 @@
+{
+  "name": "Jon",
+  "tags":[
+    {
+      "1": "San Jose",
+      "2": "California",
+      "3": 1987
+    },
+    {
+      "1": "University Ave",
+      "2": "Princeton",
+      "3": 1990
+    }
+  ]
+}

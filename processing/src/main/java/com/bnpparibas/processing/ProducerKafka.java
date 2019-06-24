@@ -13,10 +13,9 @@ public class ProducerKafka {
 
     public static void main(String[] args) throws Exception{
 
-        Stream<String> filejson = Files.lines(Paths.get("/home/fouad/BigApps/kafkaBigapps/projetKafka/processing/src/main/resources/JsonTopic.json"));
+        Stream<String> filejson = Files.lines(Paths.get("/home/fouad/BigApps/kafkaBigapps/projetKafka/processing/src/main/resources/interactions.csv"));
 
-        String topicName = "test";
-
+        String topicName = "topic1";
         Properties props = new Properties();
 
         props.put("bootstrap.servers", "localhost:9092");
@@ -27,11 +26,11 @@ public class ProducerKafka {
         Producer<String, String> producer = new KafkaProducer<String, String>(props);
 
         filejson.forEach(f->{
-              ProducerRecord<String, String> record = new ProducerRecord<String, String>(topicName,f);
+              ProducerRecord<String, String> record = new ProducerRecord<String, String>(topicName, "keeeeeeeey", f);
               producer.send(record);
         });
 
-        producer.send( new ProducerRecord<>(topicName,"k", "Message Topic 1111 partition") );
+        // producer.send( new ProducerRecord<>(topicName, "k","Message Topic 1 partition") );
         producer.close();
     }
 }

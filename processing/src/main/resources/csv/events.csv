@@ -1,0 +1,78 @@
+category;clientId;endDate;label;name;startDate;status;subject
+client;client_1;2019-06-24;réclamation;reclamation;2019-01-23;en_cours;carte débitée deux fois
+client;client_3;2019-06-02;réclamation;reclamation;2019-05-19;cloture;erreur de débit
+client;client_4;2019-06-24;imprévu;imprevu;2019-04-14;en_cours;declaration de sinistre
+client;client_5;2019-04-12;imprévu;imprevu;2019-03-12;cloture;cambriolage
+client;papin;2019-06-24;réclamation;reclamation;2019-06-06;en_cours;dépassement plafond carte
+client;client_7;2019-06-19;réclamation;reclamation;2019-03-26;cloture;paiement refuse
+client;client_9;2019-06-07;réclamation;reclamation;2019-01-25;cloture;paiement refuse
+client;client_10;2019-06-24;réclamation;reclamation;2019-06-19;en_cours;dépassement plafond carte
+client;client_11;2019-06-24;imprévu;imprevu;2019-05-25;en_cours;travaux toiture
+client;client_13;2019-06-24;imprévu;imprevu;2019-01-19;en_cours;perte d'emploi
+client;client_15;2019-04-29;réclamation;reclamation;2019-02-11;cloture;renégociation de credit
+client;client_17;2019-06-24;réclamation;reclamation;2019-04-25;en_cours;renégociation de credit
+client;client_18;2019-05-12;imprévu;imprevu;2019-04-24;cloture;travaux toiture
+client;client_19;2019-06-24;réclamation;reclamation;2019-04-16;en_cours;dépassement plafond carte
+client;client_20;2019-06-18;réclamation;reclamation;2019-06-16;cloture;renégociation de credit
+client;client_23;2019-05-24;imprévu;imprevu;2019-02-22;cloture;cambriolage
+client;client_24;2019-02-09;imprévu;imprevu;2019-02-05;cloture;declaration de sinistre
+client;client_25;2019-06-24;imprévu;imprevu;2019-01-08;en_cours;cambriolage
+client;client_26;2019-06-24;réclamation;reclamation;2019-04-11;en_cours;dépassement plafond carte
+client;client_28;2019-06-14;réclamation;reclamation;2019-04-04;cloture;dépassement plafond carte
+client;client_30;2019-04-19;imprévu;imprevu;2019-04-04;cloture;perte d'emploi
+client;client_31;2019-06-24;imprévu;imprevu;2019-01-09;en_cours;travaux toiture
+client;client_32;2019-06-24;imprévu;imprevu;2019-04-12;en_cours;achat nouvel ordinateur
+client;client_33;2019-04-19;imprévu;imprevu;2019-04-11;cloture;achat nouvel ordinateur
+client;client_35;2019-04-19;imprévu;imprevu;2019-04-07;cloture;travaux toiture
+client;client_36;2019-06-24;réclamation;reclamation;2019-04-19;en_cours;dépassement plafond carte
+client;client_37;2019-06-14;imprévu;imprevu;2019-01-28;cloture;travaux plomberie
+client;client_39;2019-05-03;imprévu;imprevu;2019-02-01;cloture;depenses de sante
+client;client_40;2019-06-24;réclamation;reclamation;2019-04-06;en_cours;paiement refuse
+client;client_41;2019-06-24;imprévu;imprevu;2019-03-05;en_cours;perte d'emploi
+client;client_43;2019-04-30;imprévu;imprevu;2019-03-15;cloture;declaration de sinistre
+client;client_44;2019-06-24;réclamation;reclamation;2019-02-10;en_cours;carte débitée deux fois
+client;client_45;2019-05-31;réclamation;reclamation;2019-02-24;cloture;renégociation de credit
+client;client_46;2019-06-24;imprévu;imprevu;2019-04-30;en_cours;travaux plomberie
+client;client_47;2019-05-16;imprévu;imprevu;2019-03-15;cloture;perte d'emploi
+client;client_48;2019-06-24;imprévu;imprevu;2019-02-20;en_cours;depenses de sante
+client;client_49;2019-05-14;imprévu;imprevu;2019-05-09;cloture;perte d'emploi
+client;client_50;2019-06-24;réclamation;reclamation;2019-01-13;en_cours;dépassement plafond carte
+client;client_51;2019-01-25;réclamation;reclamation;2019-01-16;cloture;dépassement plafond carte
+client;client_52;2019-06-24;imprévu;imprevu;2019-02-06;en_cours;depenses de sante
+client;client_55;2019-04-20;réclamation;reclamation;2019-02-06;cloture;paiement refuse
+client;client_56;2019-04-21;réclamation;reclamation;2019-03-30;cloture;erreur de débit
+client;client_58;2019-06-24;réclamation;reclamation;2019-01-17;en_cours;dépassement plafond carte
+client;client_59;2019-03-09;imprévu;imprevu;2019-03-04;cloture;perte d'emploi
+client;client_61;2019-06-24;imprévu;imprevu;2019-04-07;en_cours;depenses de sante
+client;client_62;2019-05-10;imprévu;imprevu;2019-02-13;cloture;depenses de sante
+client;client_63;2019-06-24;imprévu;imprevu;2019-05-11;en_cours;perte d'emploi
+client;client_64;2019-05-31;imprévu;imprevu;2019-03-16;cloture;accident de voiture
+client;client_65;2019-06-24;imprévu;imprevu;2019-02-08;en_cours;travaux toiture
+client;client_66;2019-06-24;imprévu;imprevu;2019-03-15;en_cours;travaux toiture
+client;client_67;2019-06-22;réclamation;reclamation;2019-06-18;cloture;carte débitée deux fois
+client;client_68;2019-06-24;réclamation;reclamation;2019-05-18;en_cours;erreur de débit
+client;client_69;2019-06-24;imprévu;imprevu;2019-01-23;en_cours;perte d'emploi
+client;client_70;2019-06-24;imprévu;imprevu;2019-05-11;en_cours;cambriolage
+client;client_71;2019-06-16;imprévu;imprevu;2019-06-11;cloture;accident de voiture
+client;client_72;2019-06-24;imprévu;imprevu;2019-01-22;en_cours;achat nouvel ordinateur
+client;client_73;2019-03-14;imprévu;imprevu;2019-02-24;cloture;depenses de sante
+client;client_74;2019-06-24;imprévu;imprevu;2019-05-05;en_cours;achat nouvel ordinateur
+client;client_75;2019-05-26;imprévu;imprevu;2019-02-04;cloture;depenses de sante
+client;client_76;2019-06-04;réclamation;reclamation;2019-02-24;cloture;dépassement plafond carte
+client;client_77;2019-06-24;imprévu;imprevu;2019-04-29;en_cours;depenses de sante
+client;client_78;2019-05-12;imprévu;imprevu;2019-05-01;cloture;perte d'emploi
+client;client_79;2019-06-24;imprévu;imprevu;2019-03-18;en_cours;cambriolage
+client;client_80;2019-04-03;réclamation;reclamation;2019-03-04;cloture;dépassement plafond carte
+client;client_82;2019-05-04;réclamation;reclamation;2019-02-12;cloture;renégociation de credit
+client;client_84;2019-04-26;réclamation;reclamation;2019-04-14;cloture;carte débitée deux fois
+client;client_85;2019-04-06;imprévu;imprevu;2019-02-20;cloture;travaux plomberie
+client;client_86;2019-04-11;réclamation;reclamation;2019-03-20;cloture;carte débitée deux fois
+client;client_87;2019-05-26;imprévu;imprevu;2019-04-25;cloture;depenses de sante
+client;client_88;2019-06-24;imprévu;imprevu;2019-05-11;en_cours;accident de voiture
+client;client_89;2019-06-24;réclamation;reclamation;2019-04-03;en_cours;paiement refuse
+client;client_91;2019-06-03;imprévu;imprevu;2019-05-31;cloture;travaux toiture
+client;client_92;2019-05-12;réclamation;reclamation;2019-03-27;cloture;renégociation de credit
+client;client_93;2019-05-13;réclamation;reclamation;2019-03-20;cloture;erreur de débit
+client;client_94;2019-06-24;réclamation;reclamation;2019-05-05;en_cours;paiement refuse
+client;client_95;2019-03-01;réclamation;reclamation;2019-02-15;cloture;carte débitée deux fois
+client;client_97;2019-06-24;imprévu;imprevu;2019-04-11;en_cours;depenses de sante

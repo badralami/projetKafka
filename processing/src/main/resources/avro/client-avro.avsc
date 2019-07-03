@@ -1,0 +1,12 @@
+{
+  "type": "record",
+  "namespace": "com.bnpparibas",
+  "name": "Client",
+  "version": "1",
+  "fields": [
+    { "name":"nom", "type": "string", "doc": "nom du client" },
+    { "name":"prenom", "type": "string", "doc": "prenom du client" },
+    { "name":"age", "type": "int", "doc": "age du client" },
+    { "name":"adresse", "type": "string", "doc": "adresse du client" }
+  ]
+}
